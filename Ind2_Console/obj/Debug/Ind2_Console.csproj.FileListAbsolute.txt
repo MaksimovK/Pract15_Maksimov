@@ -1,0 +1,7 @@
+C:\Users\kmaki\RiderProjects\WF_Pract15\Ind2_Console\obj\Debug\Ind2_Console.csproj.AssemblyReference.cache
+C:\Users\kmaki\RiderProjects\WF_Pract15\Ind2_Console\obj\Debug\Ind2_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\kmaki\RiderProjects\WF_Pract15\Ind2_Console\obj\Debug\Ind2_Console.csproj.CoreCompileInputs.cache
+C:\Users\kmaki\RiderProjects\WF_Pract15\Ind2_Console\bin\Debug\Ind2_Console.exe
+C:\Users\kmaki\RiderProjects\WF_Pract15\Ind2_Console\bin\Debug\Ind2_Console.pdb
+C:\Users\kmaki\RiderProjects\WF_Pract15\Ind2_Console\obj\Debug\Ind2_Console.exe
+C:\Users\kmaki\RiderProjects\WF_Pract15\Ind2_Console\obj\Debug\Ind2_Console.pdb
