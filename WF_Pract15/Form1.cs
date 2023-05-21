@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -14,7 +15,7 @@ namespace WF_Pract15
     public partial class Form1 : Form
     {
         private StudentGroup studentGroup = new StudentGroup();
-        private SortedList<string, StudentGroup> data = new SortedList<string, StudentGroup>();
+        private ArrayList data = new ArrayList();
 
         public Form1()
         {
@@ -35,7 +36,7 @@ namespace WF_Pract15
                     studentGroup.DataOfBirth, studentGroup.NumberPhone);
                 dataGridView1.Rows.Add(key, studentGroup.FirstName, studentGroup.MiddleName, studentGroup.LastName,
                     studentGroup.DataOfBirth, studentGroup.NumberPhone);
-                data.Add(key.ToString(), studentGroup);
+                data.Add(studentGroup);
                 dataGridView1.Update();
                 dataGridView1.Refresh();
             }
